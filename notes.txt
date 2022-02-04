@@ -1,0 +1,14 @@
+https://www.educative.io/blog/javascript-snake-game-tutorial
+
+1. Display board and a still snake **success**
+
+2. Make the snake move automatically **success**
+    Horizontal movement
+        To make the snake move one step (10px) to the right, we can increase the xx-coordinate of every part of the snake by 10px (dx = +10).
+
+        To make the snake move to the left, we can decrease the x-coordinate of every part of the snake by 10px (dx = -10).
+
+3. Using arrow keys to change the snake's direction **success**
+
+4. Incorporating food and score
+    Randomize food 
